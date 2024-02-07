@@ -1,0 +1,10 @@
+name: Azure-VM
+version: 1.0.0
+formatVersion: 1
+inputs: {}
+resources:
+  Cloud_Azure_Machine_1:
+    type: Cloud.Azure.Machine
+    properties:
+      image: 'LINUX'
+      flavor: 'small'
