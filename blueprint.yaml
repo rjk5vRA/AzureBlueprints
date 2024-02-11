@@ -8,3 +8,4 @@ resources:
     properties:
       image: 'LINUX'
       flavor: 'small'
+      random: 'rohit'
